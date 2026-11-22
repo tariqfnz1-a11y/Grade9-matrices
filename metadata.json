@@ -1,0 +1,8 @@
+{
+  "name": "Grade 9 Mathematics – Unit 1: Matrices and Determinants",
+  "description": "Self-learning platform for Grade 9 students following the Punjab Pakistan Mathematics syllabus (Unit 1: Matrices and Determinants).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
